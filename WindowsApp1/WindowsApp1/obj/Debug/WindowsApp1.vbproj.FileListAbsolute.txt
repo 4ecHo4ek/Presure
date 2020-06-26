@@ -1,0 +1,117 @@
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3 — копия.2\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3 — копия.2\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3 — копия.2\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3 — копия.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3 — копия.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3 — копия.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3 — копия.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3 — копия.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3 — копия.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3 — копия.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3 — копия.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3 — копия.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3 — копия.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия.1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия.1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия.1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.1 — копия.1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2 — копия\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2 — копия\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2 — копия\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.2 — копия\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3_for_nirs\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3_for_nirs\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3_for_nirs\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3_for_nirs\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3_for_nirs\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3_for_nirs\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3_for_nirs\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3_for_nirs\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3_for_nirs\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3_for_nirs\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3_for_nirs\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3_for_nirs\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\programms\VisualStudio\my_own\xz_chto_v.-2.0\app1_v3.3_for_nirs\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
